@@ -1,0 +1,1862 @@
+[
+  {
+    "timestamp": "2025-03-31T17:20:52.938Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "Conversa realizada aqui"
+  },
+  {
+    "timestamp": "2025-03-31T17:30:39.638Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Mais uma linha aqui"
+  },
+  {
+    "timestamp": "2025-03-31T17:30:46.786Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Vai outra"
+  },
+  {
+    "timestamp": "2025-03-31T17:46:33.256Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-03-31T17:47:07.465Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "E ai tudo sussa"
+  },
+  {
+    "timestamp": "2025-04-01T17:27:39.448Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-01T17:27:39.449Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-01T17:27:39.456Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:27:39.480Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:27:39.487Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-01T17:27:59.033Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Orçamento"
+  },
+  {
+    "timestamp": "2025-04-01T17:27:59.033Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Orçamento"
+  },
+  {
+    "timestamp": "2025-04-01T17:27:59.041Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "orcamento",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:27:59.068Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "🧾 Qual tipo de serviço você deseja? (ex: cartão de visita, banner, adesivo)"
+  },
+  {
+    "timestamp": "2025-04-01T17:27:59.719Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "orcamento",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:28:22.002Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Banner"
+  },
+  {
+    "timestamp": "2025-04-01T17:28:22.003Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Banner"
+  },
+  {
+    "timestamp": "2025-04-01T17:28:22.011Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servico_especifico",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:28:22.030Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servico_especifico",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:28:22.035Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-01T17:28:41.624Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "10 unidade 20x18"
+  },
+  {
+    "timestamp": "2025-04-01T17:28:41.625Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "10 unidade 20x18"
+  },
+  {
+    "timestamp": "2025-04-01T17:28:41.633Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:28:41.658Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "🎨 Você já possui a arte final ou precisa que a gente crie?"
+  },
+  {
+    "timestamp": "2025-04-01T17:28:42.315Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:29:11.223Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Crie por favor"
+  },
+  {
+    "timestamp": "2025-04-01T17:29:11.224Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Crie por favor"
+  },
+  {
+    "timestamp": "2025-04-01T17:29:11.232Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:29:11.251Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:29:11.259Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "⏱ Qual o prazo ideal para entrega?"
+  },
+  {
+    "timestamp": "2025-04-01T17:29:19.406Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "3 dias"
+  },
+  {
+    "timestamp": "2025-04-01T17:29:19.407Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "3 dias"
+  },
+  {
+    "timestamp": "2025-04-01T17:29:19.415Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:29:19.440Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "✅ Aqui está o resumo do seu pedido:\n\n  🧾 Serviço: Banner\n  📦 Quantidade/Tamanho: 10 unidade 20x18\n  🎨 Arte final: Crie por favor\n  ⏱ Prazo: 3 dias\n  \n  Um atendente entrará em contato em breve para confirmar os detalhes."
+  },
+  {
+    "timestamp": "2025-04-01T17:29:20.105Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:29:53.605Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Ok obrigado"
+  },
+  {
+    "timestamp": "2025-04-01T17:29:53.606Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Ok obrigado"
+  },
+  {
+    "timestamp": "2025-04-01T17:29:53.613Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-01T17:29:53.639Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:48:56.693Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T15:48:56.695Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T15:48:56.695Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:48:56.746Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T15:48:57.094Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:55:07.410Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T15:55:07.410Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T15:55:07.418Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:55:07.435Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:55:07.439Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T15:56:28.425Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T15:56:28.426Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T15:56:28.434Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:56:28.479Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "🎨 Você já possui a arte final ou precisa que a gente crie?"
+  },
+  {
+    "timestamp": "2025-04-02T15:56:28.695Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:57:59.284Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "N"
+  },
+  {
+    "timestamp": "2025-04-02T15:57:59.285Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "N"
+  },
+  {
+    "timestamp": "2025-04-02T15:57:59.293Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:57:59.309Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:57:59.315Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "⏱ Qual o prazo ideal para entrega?"
+  },
+  {
+    "timestamp": "2025-04-02T15:58:01.325Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "A"
+  },
+  {
+    "timestamp": "2025-04-02T15:58:01.326Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "A"
+  },
+  {
+    "timestamp": "2025-04-02T15:58:01.334Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:58:01.358Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "✅ Aqui está o resumo do seu pedido:\n\n  🧾 Serviço: Serviços\n  📦 Quantidade/Tamanho: Serviços\n  🎨 Arte final: N\n  ⏱ Prazo: A\n  \n  Um atendente entrará em contato em breve para confirmar os detalhes."
+  },
+  {
+    "timestamp": "2025-04-02T15:58:01.723Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:58:02.972Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "D"
+  },
+  {
+    "timestamp": "2025-04-02T15:58:02.973Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "D"
+  },
+  {
+    "timestamp": "2025-04-02T15:58:02.981Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:58:02.995Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:58:07.445Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T15:58:07.446Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T15:58:07.448Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:58:07.480Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T15:58:07.869Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:58:13.612Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T15:58:13.613Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T15:58:13.621Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:58:13.634Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T15:58:13.639Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T16:15:37.311Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:15:37.313Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:15:37.320Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:15:37.350Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T16:15:37.719Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:15:42.598Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T16:15:42.599Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T16:15:42.607Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:15:42.622Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:15:42.626Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T16:19:07.324Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:19:07.326Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:19:07.334Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:19:07.387Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T16:19:07.903Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:19:14.500Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T16:19:14.502Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T16:19:14.504Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:19:14.534Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:19:14.538Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T16:21:39.466Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:21:39.469Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:21:39.476Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:21:39.532Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T16:21:39.997Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:21:45.759Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T16:21:45.760Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T16:21:45.761Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:21:45.797Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:21:45.802Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T16:39:58.486Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:39:58.488Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:39:58.495Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:39:58.550Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T16:39:58.804Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:40:05.201Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T16:40:05.204Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T16:40:05.212Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:40:05.223Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:40:05.228Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T16:42:13.622Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:42:13.624Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:42:13.631Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:42:13.688Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T16:42:14.218Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:42:21.126Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Orçamento"
+  },
+  {
+    "timestamp": "2025-04-02T16:42:21.128Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Orçamento"
+  },
+  {
+    "timestamp": "2025-04-02T16:42:21.136Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "orcamento",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:46:15.781Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:47:30.945Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:47:30.947Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:47:30.954Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:47:30.985Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T16:47:31.357Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:47:38.462Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Orçamento"
+  },
+  {
+    "timestamp": "2025-04-02T16:47:38.465Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Orçamento"
+  },
+  {
+    "timestamp": "2025-04-02T16:47:38.473Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "orcamento",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:47:38.486Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "orcamento",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:47:38.490Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:20.922Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "J"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:20.924Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "J"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:20.932Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:49:20.995Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "🎨 Você já possui a arte final ou precisa que a gente crie?"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:21.420Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:49:22.006Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "H"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:22.008Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "H"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:22.010Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:49:22.025Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:49:22.029Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "⏱ Qual o prazo ideal para entrega?"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:25.659Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "H"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:25.661Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "H"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:25.662Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:49:25.709Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "✅ Aqui está o resumo do seu pedido:\n\n  🧾 Serviço: \n  📦 Quantidade/Tamanho: J\n  🎨 Arte final: H\n  ⏱ Prazo: H\n  \n  Um atendente entrará em contato em breve para confirmar os detalhes."
+  },
+  {
+    "timestamp": "2025-04-02T16:49:26.327Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:49:29.828Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:29.829Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:29.832Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:49:29.868Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:49:29.872Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T16:49:35.772Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:35.774Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:35.782Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:49:35.823Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:36.074Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:49:57.891Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "J"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:57.892Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "J"
+  },
+  {
+    "timestamp": "2025-04-02T16:49:57.900Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:49:57.943Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:49:57.946Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "🎨 Você já possui a arte final ou precisa que a gente crie?"
+  },
+  {
+    "timestamp": "2025-04-02T16:50:00.888Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "A"
+  },
+  {
+    "timestamp": "2025-04-02T16:50:00.890Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "A"
+  },
+  {
+    "timestamp": "2025-04-02T16:50:00.898Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:50:00.921Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "⏱ Qual o prazo ideal para entrega?"
+  },
+  {
+    "timestamp": "2025-04-02T16:50:01.684Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:50:04.164Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "H"
+  },
+  {
+    "timestamp": "2025-04-02T16:50:04.166Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "H"
+  },
+  {
+    "timestamp": "2025-04-02T16:50:04.169Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:50:04.212Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:50:04.215Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "✅ Aqui está o resumo do seu pedido:\n\n  🧾 Serviço: Serviços\n  📦 Quantidade/Tamanho: J\n  🎨 Arte final: A\n  ⏱ Prazo: H\n  \n  Um atendente entrará em contato em breve para confirmar os detalhes."
+  },
+  {
+    "timestamp": "2025-04-02T16:50:09.808Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:50:09.809Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:50:09.817Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:50:09.854Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T16:50:10.071Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:50:17.352Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Prazo"
+  },
+  {
+    "timestamp": "2025-04-02T16:50:17.354Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Prazo"
+  },
+  {
+    "timestamp": "2025-04-02T16:50:17.362Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "prazo",
+      "response": "⏱ Nossos prazos variam conforme o serviço:\n- Impressão simples: 1 a 2 dias úteis\n- Serviços personalizados: 3 a 5 dias"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:50:17.394Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "prazo",
+      "response": "⏱ Nossos prazos variam conforme o serviço:\n- Impressão simples: 1 a 2 dias úteis\n- Serviços personalizados: 3 a 5 dias"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:50:17.399Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "⏱ Nossos prazos variam conforme o serviço:\n- Impressão simples: 1 a 2 dias úteis\n- Serviços personalizados: 3 a 5 dias"
+  },
+  {
+    "timestamp": "2025-04-02T16:55:51.802Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:55:51.805Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:55:51.813Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:57:59.039Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:57:59.041Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:57:59.048Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:57:59.089Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T16:57:59.491Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:04.407Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:04.410Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:04.411Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:04.440Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servicos",
+      "response": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:04.444Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:12.410Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Banners"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:12.411Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Banners"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:12.419Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servico_especifico",
+      "response": "__start_orcamento__"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:12.454Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:12.980Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "servico_especifico",
+      "response": "__start_orcamento__"
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:21.838Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "E"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:21.841Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "E"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:21.849Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:21.880Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:21.884Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "🎨 Você já possui a arte final ou precisa que a gente crie?"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:24.495Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "U"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:24.497Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "U"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:24.505Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:24.538Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "⏱ Qual o prazo ideal para entrega?"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:24.800Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:27.976Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Y"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:27.979Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Y"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:27.983Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:28.009Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "indefinido",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:28.013Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "✅ Aqui está o resumo do seu pedido:\n\n  🧾 Serviço: Banners\n  📦 Quantidade/Tamanho: E\n  🎨 Arte final: U\n  ⏱ Prazo: Y\n  \n  Um atendente entrará em contato em breve para confirmar os detalhes."
+  },
+  {
+    "timestamp": "2025-04-02T16:58:33.509Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:33.511Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:33.513Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:33.553Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T16:58:33.901Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "saudacao",
+      "response": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:40.645Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Orçamento"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:40.647Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Orçamento"
+  },
+  {
+    "timestamp": "2025-04-02T16:58:40.655Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "orcamento",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:40.678Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": {
+      "intent": "orcamento",
+      "response": null
+    }
+  },
+  {
+    "timestamp": "2025-04-02T16:58:40.683Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:11.970Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:12.533Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T17:07:12.540Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T17:07:20.659Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Orçamentos"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:20.708Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "🧾 Qual tipo de serviço você deseja? (ex: cartão de visita, banner, adesivo)"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:31.121Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Adesivos"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:31.700Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:31.706Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:38.628Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "1000"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:38.691Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "🎨 Você já possui a arte final ou precisa que a gente crie?"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:38.695Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": "🎨 Você já possui a arte final ou precisa que a gente crie?"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:42.600Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Não"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:42.965Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "⏱ Qual o prazo ideal para entrega?"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:42.969Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": "⏱ Qual o prazo ideal para entrega?"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:50.443Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "10 dias"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:50.508Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "✅ Aqui está o resumo do seu pedido:\n\n  🧾 Serviço: Adesivos\n  📦 Quantidade/Tamanho: 1000\n  🎨 Arte final: Não\n  ⏱ Prazo: 10 dias\n  \n  Um atendente entrará em contato em breve para confirmar os detalhes."
+  },
+  {
+    "timestamp": "2025-04-02T17:07:50.513Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": "✅ Aqui está o resumo do seu pedido:\n\n  🧾 Serviço: Adesivos\n  📦 Quantidade/Tamanho: 1000\n  🎨 Arte final: Não\n  ⏱ Prazo: 10 dias\n  \n  Um atendente entrará em contato em breve para confirmar os detalhes."
+  },
+  {
+    "timestamp": "2025-04-02T17:07:56.916Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Olá"
+  },
+  {
+    "timestamp": "2025-04-02T17:07:57.303Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T17:07:57.307Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": "👋 Olá! Sou o assistente virtual da gráfica. Posso te ajudar com:\n- \"Orçamento\"\n- \"Serviços\"\n- \"Prazo\"\n- \"Formato de arquivo\"\nOu digite \"Atendente\" para falar com uma pessoa."
+  },
+  {
+    "timestamp": "2025-04-02T17:08:02.320Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Serviços"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:02.380Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:02.385Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": "📌 Trabalhamos com os seguintes serviços:\n- Impressão de cartões, banners, adesivos, panfletos\n- Criação de arte e identidade visual\n- Personalização de brindes\n\nMe diga o que você precisa!"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:11.459Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "Brindes"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:11.889Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:11.893Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": "📦 Qual a quantidade/tamanho desejado?"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:28.872Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "N"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:28.941Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "🎨 Você já possui a arte final ou precisa que a gente crie?"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:28.946Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": "🎨 Você já possui a arte final ou precisa que a gente crie?"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:31.734Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "D"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:32.397Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "⏱ Qual o prazo ideal para entrega?"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:32.401Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": "⏱ Qual o prazo ideal para entrega?"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:35.034Z",
+    "from": "554498127202@c.us",
+    "direction": "received",
+    "body": "S"
+  },
+  {
+    "timestamp": "2025-04-02T17:08:35.076Z",
+    "from": "554498127202@c.us",
+    "direction": "sent",
+    "body": "✅ Aqui está o resumo do seu pedido:\n\n  🧾 Serviço: Brindes\n  📦 Quantidade/Tamanho: N\n  🎨 Arte final: D\n  ⏱ Prazo: S\n  \n  Um atendente entrará em contato em breve para confirmar os detalhes."
+  },
+  {
+    "timestamp": "2025-04-02T17:08:35.081Z",
+    "from": "554498175284@c.us",
+    "direction": "sent",
+    "body": "✅ Aqui está o resumo do seu pedido:\n\n  🧾 Serviço: Brindes\n  📦 Quantidade/Tamanho: N\n  🎨 Arte final: D\n  ⏱ Prazo: S\n  \n  Um atendente entrará em contato em breve para confirmar os detalhes."
+  }
+]

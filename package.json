@@ -6,19 +6,28 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "wa": "node backend/whatsapp/index.js"
   },
   "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "next": "^15.2.4",
+    "openai": "^4.89.1",
+    "prisma": "^6.5.0",
+    "puppeteer": "^24.4.0",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.2.4"
+    "whatsapp-web.js": "^1.27.0",
+    "wwebjs": "^1.23.1-alpha.7"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4"
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }
